@@ -21,4 +21,4 @@ PRODUCT_BRAND := Google
 PRODUCT_MODEL := Nexus 10
 PRODUCT_MANUFACTURER := samsung
 
-PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=mantaray BUILD_FINGERPRINT=google/mantaray/manta:5.0.1/LRX22C/1602158:user/release-keys PRIVATE_BUILD_DESC="mantaray-user 5.0.1 LRX22C 1602158 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += PRODUCT_NAME=mantaray BUILD_FINGERPRINT=google/mantaray/manta:5.0.2/LRX22G/1649326:user/release-keys PRIVATE_BUILD_DESC="mantaray-user 5.0.2 LRX22G 1649326 release-keys"
