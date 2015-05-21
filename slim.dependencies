@@ -1,0 +1,7 @@
+[
+    {
+        "repository": "teameos/kernel_samsung_manta",
+        "target_path": "kernel/samsung/manta",
+        "revision": "lp5.1"
+    }
+]
