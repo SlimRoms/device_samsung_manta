@@ -32,6 +32,10 @@ TARGET_ARCH := arm
 TARGET_ARCH_VARIANT := armv7-a-neon
 TARGET_CPU_VARIANT := cortex-a15
 
+# Kernel
+TARGET_KERNEL_SOURCE := kernel/samsung/manta
+TARGET_KERNEL_CONFIG := slim_manta_defconfig
+
 #Bluetooth
 BOARD_HAVE_BLUETOOTH := true
 BOARD_HAVE_BLUETOOTH_BCM := true

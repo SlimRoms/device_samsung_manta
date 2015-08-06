@@ -1,6 +1,6 @@
 [
     {
-        "repository": "teameos/kernel_samsung_manta",
+        "repository": "SlimRoms/kernel_samsung_manta",
         "target_path": "kernel/samsung/manta",
         "revision": "lp5.1"
     }
